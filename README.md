@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi everyone, welcome to my data part 👋
+ Professional Summary
+- From being a part of Business Analyst and aspiring Data Analyst with experience in data-driven operations, dashboard development, and process optimization across retail, logistics, and insurtech sectors.Over the past years, I have worked with cross‑functional teams to improve system workflows, enhance data visibility, and implement automated reporting solutions that reduced manual processes by up to 30%. My strengths inculding SQL, Python,  business analytics, digital operations, stakeholder collaboration, and problem‑solving in fast‑moving environments.Currently pursuing a Master’s in Data Science at the University of the West of England, I am expanding my technical foundation in machine learning, statistical modelling, and data engineering.
 
 <!--
 **tanonue/tanonue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
