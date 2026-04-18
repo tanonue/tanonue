@@ -41,27 +41,13 @@ SKILL
 - Automation & Systems: Microsoft Power Apps, Power Automate, OCR Integration, System Monitoring (PuTTY)
 - Business Skills: Requirements gathering, process optimization, stakeholder communication
 
-LANGUAGE
----
-Thai: Native | English: Professional working proficiency (TOEIC 660)
-
 CERTIFICATE & LICENSES
 ---
+<p align="center">
+  <img src="Images/SAP_certification.jpg" width="250">
+</p>
 
-<Images/SAP certification.jpg>
-<Images/Certificate Azure Essentials Professional Certificate by Microsoft and LinkedIn.jpg>
+<p align="center">
+  <img src="Images/Certificate_Azure.jpg" width="300">
+</p>
 
-<!--
-**tanonue/tanonue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
