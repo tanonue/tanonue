@@ -48,6 +48,8 @@ Thai: Native | English: Professional working proficiency (TOEIC 660)
 CERTIFICATE & LICENSES
 ---
 
+<Images/SAP certification.jpg>
+<Images/Certificate Azure Essentials Professional Certificate by Microsoft and LinkedIn.jpg>
 
 <!--
 **tanonue/tanonue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
