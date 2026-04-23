@@ -4,14 +4,6 @@ PROFESSIONAL SUMMARY
 ---
 Business Analyst with experience in supply chain, logistics, and retail operations, currently undertaking a master's degree in data science in the United Kingdom. Experienced in translating business requirements into data-driven and system-based solutions, with strong exposure to process automation, analytics, and cross-functional collaboration in multinational environments.
 
-EDUCATION
----
-MSc Data Science, University of the West of England (UWE)
-United Kingdom (2026–2027)
-Key areas: Python, SQL, machine learning, data modelling, applied business analytics.
-BSc Management Technology (Supply Chain Management), Thammasat University (SIIT), Thailand (2019–2022)
-Key areas: Business Analytics, Python, SAP, Management Organization, E-Business
-
 PROFESSIONAL EXPERIENCE
 ---
 Business Analyst – Warehouse Management System (WMS)
